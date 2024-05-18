@@ -1,1 +1,1 @@
-# repository-named-js-for-react-native-11297632
+# js-for-react-native-11297632
